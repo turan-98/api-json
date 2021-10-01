@@ -1,0 +1,25 @@
+{
+    "Certificado":[
+        {
+            "id":0,
+            "curso":"ADS",
+            "faculdade":"Faculdade de Tecnologia de São Paulo - FATEC",
+            "localidade":"Ferraz de Vasconcelos",
+            "coordenador":"Andreia Zoto..",
+            "alunosCertificados":[
+                {
+                    "ra":2920481821012,
+                    "nome": "Samuel Santana Dias..",
+                    "dataDeConclusao":"24/12/2021",
+                    "dataDeNascimento":"04/11/1998"
+                },
+                {
+                    "ra":2920481821400,
+                    "nome": "Lorem ipsum",
+                    "dataDeConclusao":"24/12/2021",
+                    "dataDeNascimento":"04/11/1998"
+                }
+            ]
+        }
+    ]
+}
